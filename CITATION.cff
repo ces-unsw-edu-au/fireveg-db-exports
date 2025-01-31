@@ -11,7 +11,7 @@ authors:
     given-names: David
     affiliation: UNSW
 version: v1.2
-date-released: '2022-04-15'
+date-released: '2025-01-31'
 preferred-citation:
   authors:
     - family-names: "Ferrer-Paris"
@@ -19,6 +19,6 @@ preferred-citation:
       orcid: https://orcid.org/0000-0002-9554-3395
     - family-names: Keith
       given-names: David A.
-  title: "Ferrer-Paris, J. R. and Keith, D. A. (2025) Fire Ecology data pipeline and database to inform fire ecology research and management. Version 1.20. Centre for Ecosystem Science, University of New South Wales, Sydney, Australia."
+  title: "Fire Ecology data pipeline and database to inform fire ecology research and management. Version 1.20. Centre for Ecosystem Science, University of New South Wales, Sydney, Australia."
   year: 2025
 message: "If you use this software, please use the preferred-citation."
