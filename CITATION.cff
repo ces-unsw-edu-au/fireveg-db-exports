@@ -19,6 +19,10 @@ preferred-citation:
       orcid: https://orcid.org/0000-0002-9554-3395
     - family-names: Keith
       given-names: David A.
-  title: "Fire Ecology data pipeline and database to inform fire ecology research and management. Version 1.20. Centre for Ecosystem Science, University of New South Wales, Sydney, Australia."
+  title: "Fire Ecology database to inform fire ecology research and management"
+  version: v1.2
   year: 2025
+  identifiers:
+  - type: doi
+    value: 10.17605/OSF.IO/HU96W
 message: "If you use this software, please use the preferred-citation."
